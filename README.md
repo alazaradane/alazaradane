@@ -1,4 +1,4 @@
-# 💫 Hi there, Welcome to Alazar Adane's profile 🚀🚀🚀
+# 💫 Hi there 🙌🙌🙌, Welcome to Alazar Adane's profile 🚀🚀🚀
 I’m a mid-level web developer and dedicated researcher at the Space Science Geospatial Institute (SSGI).<be>
 I'm JavaScript Enthusiastic 
 
