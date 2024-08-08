@@ -1,5 +1,5 @@
 # 💫 Hi there 🙌🙌🙌, Welcome to my profile 🚀🚀🚀
-I’m a mid-level web developer and dedicated researcher at the Space Science Geospatial Institute (SSGI).<be>
+Software Engineer passionate about building full-stack JavaScript/TypeScript applications with React/Next.js, Node/Express, and SQL/NoSQL databases.<be>
 I'm JavaScript Enthusiastic 
 
 
